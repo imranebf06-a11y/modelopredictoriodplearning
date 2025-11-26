@@ -1,0 +1,4 @@
+torch>=1.13.0
+streamlit>=1.20
+pyngrok>=5.2.1
+numpy
