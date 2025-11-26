@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.env
+.vscode/
+model.pth
+vocab.json
+*.log
+.DS_Store
